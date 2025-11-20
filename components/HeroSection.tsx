@@ -82,7 +82,7 @@ export default function HeroSection({ onActivateAssistant, isListening }: HeroSe
             </div>
             <p className="text-sm text-violet-200/80 flex items-center gap-2 justify-center lg:justify-start">
               <i className="ri-sparkling-line"></i>
-              Try: "Plan my trip from Delhi to Manali"
+              Try: &ldquo;Plan my trip from Delhi to Manali&rdquo;
             </p>
 
             {/* Stats */}

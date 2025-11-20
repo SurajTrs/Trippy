@@ -72,7 +72,7 @@ export default function TestimonialsSection() {
               </div>
               
               <p className="text-gray-700 leading-relaxed text-lg mb-6">
-                "{testimonial.content}"
+                &ldquo;{testimonial.content}&rdquo;
               </p>
               
               <div className="flex items-center text-sm text-green-600 font-semibold">
